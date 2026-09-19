@@ -1,0 +1,7 @@
+{
+  "name": "Nope.exe",
+  "description": "The ultimate software machine that only wants to turn itself off. A deadpan, introverted AI comedy experience inspired by Claude Shannon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
